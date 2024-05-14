@@ -1,0 +1,13 @@
+.card {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
